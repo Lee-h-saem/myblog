@@ -104,8 +104,8 @@ a {
   display: flex;
 }
 .bar {
-  width: 50px;
-  height: 10px;
+  width: 60px;
+  height: 20px;
   border: 2px solid white;
   margin: 6px;
   cursor: pointer;
